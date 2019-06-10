@@ -1,0 +1,12 @@
+ul{
+    overflow: hidden;
+    height: 50px;
+    background-color: gray;
+}
+
+li{
+    float: left;
+    padding: 8px;
+    color: white;
+    list-style: none;
+}
